@@ -16,6 +16,7 @@ React application that consumes the Rick & Morty API and displays characters dyn
 🔗 Live Demo  
 https://practica-rickandmorty.netlify.app/
 
+![Rick & Morty](rickandmorty.png)
 ---
 
 ### ✅ Todo List (React + Chakra UI)
@@ -24,6 +25,7 @@ Task management application built with React and Chakra UI.
 🔗 Live Demo  
 https://todolist-chakra2024.netlify.app/
 
+![Todo List](todolist.png)
 ---
 
 ### 🎨 Meme Generator
@@ -32,6 +34,7 @@ Interactive meme editor built with JavaScript and dynamic DOM manipulation.
 🔗 Live Demo  
 https://melina8444.github.io/editor_meme/
 
+![Generador Meme](meme-generator.png)
 ---
 
 ### 🛒 E-commerce Web Project
@@ -39,6 +42,7 @@ Frontend e-commerce practice project built with HTML, CSS and JavaScript.
 
 🔗 Live Demo  
 https://melina8444.github.io/tp_integrador_fase1_EDUIT/
+
 
 ---
 
