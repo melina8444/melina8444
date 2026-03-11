@@ -10,40 +10,43 @@ Currently improving my skills by building practice projects and exploring modern
 
 ## 🚀 Featured Projects
 
-### 🧪 Rick & Morty React App
-React application that consumes the Rick & Morty API and displays characters dynamically.
+<table>
+<tr>
+<td align="center">
+<a href="https://practica-rickandmorty.netlify.app/">
+<img src="rickandmorty.png" width="350"/>
+</a>
+<br/>
+<b>Rick & Morty React App</b>
+</td>
 
-🔗 Live Demo  
-https://practica-rickandmorty.netlify.app/
+<td align="center">
+<a href="https://todolist-chakra2024.netlify.app/">
+<img src="todolist.png" width="350"/>
+</a>
+<br/>
+<b>Todo List (React + Chakra UI)</b>
+</td>
+</tr>
 
-<img src="rickandmorty.png" width="700"/>
----
+<tr>
+<td align="center">
+<a href="https://melina8444.github.io/editor_meme/">
+<img src="meme.png" width="350"/>
+</a>
+<br/>
+<b>Meme Generator</b>
+</td>
 
-### ✅ Todo List (React + Chakra UI)
-Task management application built with React and Chakra UI.
-
-🔗 Live Demo  
-https://todolist-chakra2024.netlify.app/
-
-<img src="todolist.png" width="700"/>
----
-
-### 🎨 Meme Generator
-Interactive meme editor built with JavaScript and dynamic DOM manipulation.
-
-🔗 Live Demo  
-https://melina8444.github.io/editor_meme/
-
-
-<img src="meme-generator.png" width="700"/>
----
-
-### 🛒 E-commerce Web Project
-Frontend e-commerce practice project built with HTML, CSS and JavaScript.
-
-🔗 Live Demo  
-https://melina8444.github.io/tp_integrador_fase1_EDUIT/
-
+<td align="center">
+<a href="https://melina8444.github.io/tp_integrador_fase1_EDUIT/">
+<img src="ecommerce.png" width="350"/>
+</a>
+<br/>
+<b>E-commerce Web Project</b>
+</td>
+</tr>
+</table>
 
 ---
 
