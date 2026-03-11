@@ -49,12 +49,7 @@ https://melina8444.github.io/tp_integrador_fase1_EDUIT/
 
 ## 🛠 Technologies
 
-- HTML5  
-- CSS3  
-- JavaScript  
-- React  
-- Git & GitHub  
-- Chakra UI  
+HTML5 · CSS3 · JavaScript · React · Chakra UI · Git 
 
 ---
 
