@@ -55,7 +55,7 @@ Currently improving my skills by building practice projects and exploring modern
 </td>
 
 <td align="center">
-<a href="https://focusflow-productivity.netlify.app">
+<a href="https://focusflow-product.netlify.app/">
 <img src="FocusFlow.png" width="350" height="200"/>
 </a>
 <br/>
