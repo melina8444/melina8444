@@ -14,7 +14,7 @@ Currently improving my skills by building practice projects and exploring modern
 <tr>
 <td align="center">
 <a href="https://practica-rickandmorty.netlify.app/">
-<img src="rickandmorty.png" width="350"/>
+<img src="rickandmorty.png"width="350" height="200"/>
 </a>
 <br/>
 <b>Rick & Morty React App</b>
@@ -22,7 +22,7 @@ Currently improving my skills by building practice projects and exploring modern
 
 <td align="center">
 <a href="https://todolist-chakra2024.netlify.app/">
-<img src="todolist.png" width="350"/>
+<img src="todolist.png" width="350" height="200"/>
 </a>
 <br/>
 <b>Todo List (React + Chakra UI)</b>
@@ -32,7 +32,7 @@ Currently improving my skills by building practice projects and exploring modern
 <tr>
 <td align="center">
 <a href="https://melina8444.github.io/editor_meme/">
-<img src="meme-generator.png" width="350"/>
+<img src="meme-generator.png" width="350" height="200"/>
 </a>
 <br/>
 <b>Meme Generator</b>
