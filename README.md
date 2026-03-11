@@ -1,18 +1,59 @@
-<h1 align="center">Hi 👋, I'm Melina Yangüez</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+# Hi 👋 I'm Melina Yangüez
 
-- 🌱 I’m currently learning **Python**
+💻 Systems Analyst | Frontend Developer  
+🌎 Based in Argentina  
 
-- 👨‍💻 All of my projects are available at [https://github.com/melina8444/Mycv.git](https://github.com/melina8444/Mycv.git)
+I enjoy building interactive web applications and learning modern web technologies.  
+My current focus is developing frontend projects using JavaScript and React.
 
-- 💬 Ask me about **HTML, CSS, JS, REACT**
+---
 
-- 📫 How to reach me **melinayanguez@gmail.com**
+## 🚀 Featured Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/melyan2222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melyan2222" height="30" width="40" /></a>
-</p>
+### 🧪 Rick & Morty React App
+React application that consumes the Rick & Morty API and displays characters dynamically.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+🔗 Live Demo  
+https://practica-rickandmorty.netlify.app/
+
+---
+
+### ✅ Todo List (React + Chakra UI)
+Task management application built with React and Chakra UI.
+
+🔗 Live Demo  
+https://todolist-chakra2024.netlify.app/
+
+---
+
+### 🎨 Meme Generator
+Interactive meme editor built with JavaScript and dynamic DOM manipulation.
+
+🔗 Live Demo  
+https://melina8444.github.io/editor_meme/
+
+---
+
+### 🛒 E-commerce Web Project
+Frontend e-commerce practice project built with HTML, CSS and JavaScript.
+
+🔗 Live Demo  
+https://melina8444.github.io/tp_integrador_fase1_EDUIT/
+
+---
+
+## 🛠 Technologies
+
+- HTML5  
+- CSS3  
+- JavaScript  
+- React  
+- Git & GitHub  
+- Chakra UI  
+
+---
+
+## 📫 Contact
+
+LinkedIn  
+www.linkedin.com/in/melina-yanguez
