@@ -40,7 +40,7 @@ Currently improving my skills by building practice projects and exploring modern
 
 <td align="center">
 <a href="https://melina8444.github.io/tp_integrador_fase1_EDUIT/">
-
+<img src="Ecommerce.png" width="350" height="200"/>
 </a>
 <br/>
 <b>E-commerce Web Project</b>
