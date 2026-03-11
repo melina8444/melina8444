@@ -3,6 +3,14 @@
 💻 Systems Analyst | Frontend Developer  
 🌎 Based in Argentina  
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 I enjoy building interactive web applications and improving my frontend development skills with JavaScript and React.  
 My current focus is developing frontend projects using JavaScript and React.
 Currently improving my skills by building practice projects and exploring modern frontend tools.
@@ -50,6 +58,14 @@ Currently improving my skills by building practice projects and exploring modern
 
 ---
 
+## 📘 Currently Learning
+
+- Improving my React skills
+- Building frontend projects with JavaScript
+- Exploring modern UI tools and better project structure
+
+---
+
 ## 🛠 Technologies
 
 HTML5 · CSS3 · JavaScript · React · Chakra UI · Git 
@@ -58,5 +74,5 @@ HTML5 · CSS3 · JavaScript · React · Chakra UI · Git
 
 ## 📫 Contact
 
-LinkedIn  
-[LinkedIn](https://www.linkedin.com/in/melina-yanguez)
+- [LinkedIn](https://www.linkedin.com/in/melina-yanguez)
+- [Email](mailto:melinayanguez@gmail.com)
