@@ -32,7 +32,7 @@ Currently improving my skills by building practice projects and exploring modern
 <tr>
 <td align="center">
 <a href="https://melina8444.github.io/editor_meme/">
-<img src="meme.png" width="350"/>
+<img src="meme-generator.png" width="350"/>
 </a>
 <br/>
 <b>Meme Generator</b>
@@ -40,7 +40,7 @@ Currently improving my skills by building practice projects and exploring modern
 
 <td align="center">
 <a href="https://melina8444.github.io/tp_integrador_fase1_EDUIT/">
-<img src="ecommerce.png" width="350"/>
+
 </a>
 <br/>
 <b>E-commerce Web Project</b>
