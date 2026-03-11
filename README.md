@@ -3,9 +3,9 @@
 💻 Systems Analyst | Frontend Developer  
 🌎 Based in Argentina  
 
-I enjoy building interactive web applications and learning modern web technologies.  
+I enjoy building interactive web applications and improving my frontend development skills with JavaScript and React.  
 My current focus is developing frontend projects using JavaScript and React.
-
+Currently improving my skills by building practice projects and exploring modern frontend tools.
 ---
 
 ## 🚀 Featured Projects
@@ -56,4 +56,4 @@ https://melina8444.github.io/tp_integrador_fase1_EDUIT/
 ## 📫 Contact
 
 LinkedIn  
-www.linkedin.com/in/melina-yanguez
+[LinkedIn](https://www.linkedin.com/in/melina-yanguez)
